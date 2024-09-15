@@ -21,15 +21,12 @@
       "appstore": "com.roblox.robloxmobile"
     },
     {
-      "name": "Scriptware",
-      "version": "2.594.524",
-      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Roblox.ipa",
-      "category": "Hacked Games",
-      "changelog": "- Added Support for Latest version",
+      "name": "Roblox",
+      "version": "2.636.626",
+      "down": "https://archive.org/download/apple-ware-executor/AppleWare-1.0.3.ipa",
+      "category": "Games",
       "bundleID": "com.roblox.robloxmobile",
-      "appstore": "com.roblox.robloxmobile",
-      "debs": [
-        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/scriptware.dylib"
+      "appstore": "com.roblox.robloxmobile"
       ]
     }
   ],
