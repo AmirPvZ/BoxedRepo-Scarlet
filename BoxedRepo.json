@@ -3,7 +3,7 @@
     "repoName": "BoxedRepo",
     "repoIcon": "https://raw.githubusercontent.com/AmirPvZ/BoxedRepo-Scarlet/main/AppIcon1.0.png"
   },
-  "Games": [
+  "Scarlet Repo": [
     {
       "name": "iPogo",
       "version": "0.329.2",
@@ -33,10 +33,7 @@
       "appstore": "com.roblox.robloxmobile",
       "debs": [
         "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/scriptware.dylib"
-      ]
-    }
-  ],
-  "Tweaked": [
+    },
     {
       "name": "Sposify++",
       "version": "8.6.42",
@@ -71,9 +68,7 @@
       ],
       "bundleID": "com.frontierdesign.videostar",
       "appstore": "com.frontierdesign.videostar"
-    }
-  ],
-  "Jailbreaks": [
+    },
     {
       "name": "Taurine",
       "version": "1.1.7",
@@ -126,10 +121,7 @@
       "contact": [
         "https://unc0ver.dev/",
         "https://twitter.com/pwn20wnd"
-      ]
     }
-  ],
-  "Emulators": [
     {
       "name": "iNDS",
       "version": "1.10.8",
@@ -158,9 +150,7 @@
       "category": "Emulators",
       "description": "PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects.",
       "enableBackup": true
-    }
-  ],
-  "Other": [
+    },
     {
       "name": "Scarlet",
       "version": "1.0",
