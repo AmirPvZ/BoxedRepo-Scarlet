@@ -35,6 +35,14 @@
       "category": "Games",
       "bundleID": "com.roblox.robloxmobile",
       "appstore": "com.roblox.robloxmobile"
+    },
+    {
+      "name" Roblox",
+      "version": "2.637.726",
+      "down": "https://archive.org/download/apple-ware-executor/AppleWare-1.0.5.ipa",
+      "category": "Games",
+      "bundleID": "com.roblox.robloxmobile"
+      "appstore": "com.roblox.robloxmobile"
     }
   ],
   "Tweaked": [
